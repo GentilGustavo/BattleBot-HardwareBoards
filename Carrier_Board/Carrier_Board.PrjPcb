@@ -141,23 +141,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XTUXLLKN
 
 [Document7]
-DocumentPath=ESC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SVAFATAV
-
-[Document8]
 DocumentPath=MPU 9250.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,24 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WROBPDHB
 
-[Document9]
-DocumentPath=INA219AID.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IXBVWNPR
-
-[Document10]
+[Document8]
 DocumentPath=Morpheus_conector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXKDURDJ
 
-[Document11]
+[Document9]
 DocumentPath=..\perifericosCB2018\CB_PERIFÉRICOS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KGNJETCY
 
-[Document12]
+[Document10]
 DocumentPath=..\MorpheusV6\LIB MorpheusV6\MissingComponents.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXBCGFBK
 
-[Document13]
+[Document11]
 DocumentPath=..\MorpheusV6\LIB MorpheusV6\Passives.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPLXECUF
 
-[Document14]
+[Document12]
 DocumentPath=..\perifericosCB2018\Morpheus_CONECTOR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBUEMNQK
 
-[Document15]
+[Document13]
 DocumentPath=..\perifericosCB2018\MPU-9250_CONECTOR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMDKXYHF
 
-[Document16]
+[Document14]
 DocumentPath=Step Down.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVFJIHBT
 
-[Document17]
+[Document15]
 DocumentPath=Medidor bateria.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,6 +292,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAOOAKQF
+
+[Document16]
+DocumentPath=..\CAP ELECTROLYTIC 10u 35V.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XXQRNYYH
 
 [Configuration1]
 Name=Default Configuration
